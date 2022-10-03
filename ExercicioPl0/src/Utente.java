@@ -60,6 +60,8 @@ public class Utente {
         this.peso = peso;
     }
 
+
+    //ToString adicionado
     @Override
     public String toString() {
         return "Utente{" +
