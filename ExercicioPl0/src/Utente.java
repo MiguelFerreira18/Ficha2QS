@@ -19,7 +19,7 @@ public class Utente {
         this.altura = altura;
         this.peso = peso;
     }
-
+//getters e setters
     public String getNome() {
         return nome;
     }
